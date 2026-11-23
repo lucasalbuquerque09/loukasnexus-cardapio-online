@@ -4,4 +4,4 @@ Disallow: /admin/
 Disallow: /pedido.html
 
 # Troque pelo seu domínio depois de publicar
-Sitemap: https://SEU-DOMINIO.vercel.app/sitemap.xml
+Sitemap: https://loukasnexus-cardapio-online.vercel.app/sitemap.xml
