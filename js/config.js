@@ -8,12 +8,12 @@
 //  os dados ficam salvos só neste navegador (localStorage), ótimo para testar.
 // =====================================================================
 export const firebaseConfig = {
-  apiKey: "AIzaSyA1QvFuDNBNPmj3Cz_MHtGFRkI-i95hq-g",
-  authDomain: "loukasnexus-cardapio.firebaseapp.com",
-  projectId: "loukasnexus-cardapio",
-  storageBucket: "loukasnexus-cardapio.firebasestorage.app",
-  messagingSenderId: "644921006727",
-  appId: "1:644921006727:web:7490c26f82c3dc60b8b622"
+  apiKey: "AIzaSyBry8LcFjiPghU3L-2o6xv-8t8Tiog2E2s",
+  authDomain: "loukasnexuscardapio.firebaseapp.com",
+  projectId: "loukasnexuscardapio",
+  storageBucket: "loukasnexuscardapio.firebasestorage.app",
+  messagingSenderId: "37784298990",
+  appId: "1:37784298990:web:faa79a0327699e4da51aff"
 };
 
 // E-mail do SUPERADMIN (dono do sistema). Crie esse usuário em Firebase › Authentication › Usuários.
